@@ -11,7 +11,7 @@ FREE AGENT😄
 
 *   🌍  I'm based in WONGSAWANG , BANGKOK, THAILAND
 *   ✉️  You can contact me at [bigyossapon.forwork@gmail.com](mailto:bigyossapon.forwork@gmail.com)
-*   🧠  I'm learning Flutter Framework ((State Management : Bloc)/(Http :get put post patch delete )/(Firebase connect)), Nodejs ((DB : mysql)/(GET/POST/PUT/PATCH/DELETE))
+*   🧠  I'm learning Flutter Framework ((State Management : Bloc)/(Http :get put post patch delete )/(Firebase connect)), Nodejs ((DB : mysql)/(GET/POST/PUT/PATCH/DELETE/JWT))
  
 ### Skills 
 <p align="left">
