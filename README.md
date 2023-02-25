@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FREE AGENT😄
 ----------
 
-🌱Start learning from study in university with C BASIC Language 
-👯Some project during study C++ language IOT(Arduino,ESP8266) Project of electronic subject : ESP8266AUTOFEEDINGPETWITHLOADCELL 
-⚡Final Project with Android Studio Java language connect Bluetooth Iot and connect googlemap api: Checking-Information-System-for-the-Suitable-Area-to-Plant-Fruit-Trees-by-Using-IoT-Technology 
+🌱Start learning from study in university with C BASIC Language\n
+👯Some project during study C++ language IOT(Arduino,ESP8266) Project of electronic subject : ESP8266AUTOFEEDINGPETWITHLOADCELL\n
+⚡Final Project with Android Studio Java language connect Bluetooth Iot and connect googlemap api: Checking-Information-System-for-the-Suitable-Area-to-Plant-Fruit-Trees-by-Using-IoT-Technology\n
 🔭Intern Project with Android Studio Java language learning connect api with get,post,put,delete and model clean structure code etc. from corp : BOOKING-ROOM-MEETING
 
 *   🌍  I'm based in WONGSAWANG , BANGKOK, THAILAND
