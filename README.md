@@ -11,7 +11,8 @@ FREE AGENT😄
 
 *   🌍  I'm based in WONGSAWANG , BANGKOK, THAILAND
 *   ✉️  You can contact me at [bigyossapon.forwork@gmail.com](mailto:bigyossapon.forwork@gmail.com)
-*   🧠  I'm learning Flutter Framework ((State Management : Bloc)/(Http :get put post patch delete )/(Firebase connect)), Nodejs ((DB : mysql)/(GET/POST/PUT/PATCH/DELETE/JWT)), IF SUCCESS FOR LEARNING I INTERESTING KATALON FOR AUTOMATE TESTING FOR SOME KNOWLEDGE
+*   🧠  I'm learning Flutter Framework ((State Management : Bloc)/(Http :get put post patch delete )/(Firebase connect)), Nodejs ((DB : mysql)/(GET/POST/PUT/PATCH/DELETE/JWT)),(learning knowledge for software tester for testcase scanerio kalaton test ui for automate test)  
+*   🧠  I wanted to create a project with all my own knowledge so I was interested in studying this information.
  
 ### Skills 
 <p align="left">
