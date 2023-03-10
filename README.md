@@ -25,6 +25,7 @@ FREE AGENT😄
   </a>
 </p>
 -c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories
+</p>
 
 
 <p align="left">
@@ -33,6 +34,7 @@ FREE AGENT😄
   </a>
 </p>
 -Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories
+</p>
 
 
 <p align="left">
@@ -41,7 +43,7 @@ FREE AGENT😄
   </a>
 </p>
 -Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories
-
+</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -49,7 +51,7 @@ FREE AGENT😄
   </a>
 </p>
 -Develop restful apis query, params and test with postman coding on vscode ex project on repositories
-
+</p>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -57,7 +59,7 @@ FREE AGENT😄
   </a>
 </p>
 -git version control : github desktop main ,branch ,commit ,push ,pull
-
+</p>
 
 ### Future Skills interested to learn
 
