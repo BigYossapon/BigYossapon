@@ -16,7 +16,7 @@ FREE AGENT😄
                       -Nodejs ((DB : mysql)/(GET/POST/PUT/PATCH/DELETE/JWT))<br />
                       
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
-
+![<hr />][hr-snapshot]
 ### Current What I Know<img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
 
 <p align="left">
@@ -52,7 +52,7 @@ FREE AGENT😄
 ### Future Skills interested to learn
 [ ![graphql][graphql-badge] ][graphql-link] &nbsp;
 [ ![apollo][apollo-badge] ][apollo-link] &nbsp;
-
+![<hr />][hr-snapshot]
 ### Badges
 
 <b>My GitHub Stats</b>
