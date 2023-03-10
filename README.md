@@ -21,7 +21,7 @@ FREE AGENT😄
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio" alt="Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories " />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,sqlite,arduino" alt="Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories " />
   </a>
   </p>
 -Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories
@@ -31,7 +31,7 @@ FREE AGENT😄
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,sqlite" alt="Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories " />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio" alt="Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories " />
   </a>
   </p>
 -Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories
