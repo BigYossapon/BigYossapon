@@ -11,20 +11,49 @@ FREE AGENT😄
 
 *   🌍  I'm based in WONGSAWANG , BANGKOK, THAILAND
 *   ✉️  You can contact me at [bigyossapon.forwork@gmail.com](mailto:bigyossapon.forwork@gmail.com)
-*   🧠  I'm learning :
-*                     -Flutter Framework for Cross platform ((State Management : Bloc)/(Http :get put post patch delete )/(Firebase connect))<br />
+*   🧠  I'm learning dev:
+                     -Flutter Framework for Cross platform ((State Management : Bloc)/(Http :get put post patch delete )/(Firebase connect))<br />
                       -Nodejs ((DB : mysql)/(GET/POST/PUT/PATCH/DELETE/JWT))<br />
-                      -Katalon (Learning knowledge for software tester for testcase scanerio)  
+                      
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
+*   Future Learning : 
+
  
-### Skills 
+### Current What I Know![image](https://user-images.githubusercontent.com/125264834/224318487-acd741be-9672-4d74-a51d-f485fd21875b.png)
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,androidstudio,arduino,discord,flutter,firebase,github,java,mysql,nodejs,postman,sqlite,visualstudio,vscode&perline=5" />
+    <img src="https://skillicons.dev/icons?i=c,arduino" alt="c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories " />
   </a>
 </p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio" alt="Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories " />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,sqlite" alt="Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories " />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,postman,vscode" alt="Develop restful apis query, params and test with postman coding on vscode ex project on repositories" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git" alt="git version control : github desktop main ,branch ,commit ,push ,pull " />
+  </a>
+</p>
+
+### Future Skills interested to learn
+[ ![graphql][graphql-badge] ][graphql-link] &nbsp;
+[ ![apollo][apollo-badge] ][apollo-link] &nbsp;
 
 ### Badges
 
