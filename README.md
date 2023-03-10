@@ -23,7 +23,9 @@ FREE AGENT😄
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,arduino" alt="c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories " />
   </a>
+  </p>
 -c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories
+</p>
 </p>
 
 
@@ -31,7 +33,9 @@ FREE AGENT😄
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,androidstudio" alt="Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories " />
   </a>
+  </p>
 -Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories
+</p>
 </p>
 
 
@@ -39,21 +43,27 @@ FREE AGENT😄
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,sqlite" alt="Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories " />
   </a>
+  </p>
 -Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories
+</p>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,postman,vscode" alt="Develop restful apis query, params and test with postman coding on vscode ex project on repositories" />
   </a>
+  </p>
 -Develop restful apis query, params and test with postman coding on vscode ex project on repositories
+</p>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git" alt="git version control : github desktop main ,branch ,commit ,push ,pull " />
   </a>
+  </p>
 -git version control : github desktop main ,branch ,commit ,push ,pull
+</p>
 </p>
 
 ### Future Skills interested to learn
