@@ -16,10 +16,8 @@ FREE AGENT😄
                       -Nodejs ((DB : mysql)/(GET/POST/PUT/PATCH/DELETE/JWT))<br />
                       
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
-*   Future Learning : 
 
- 
-### Current What I Know![image](https://user-images.githubusercontent.com/125264834/224318487-acd741be-9672-4d74-a51d-f485fd21875b.png)
+### Current What I Know<img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
 
 <p align="left">
   <a href="https://skillicons.dev">
