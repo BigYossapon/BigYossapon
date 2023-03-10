@@ -57,6 +57,11 @@ FREE AGENT😄
 </p>
 
 ### Future Skills interested to learn
+![download](https://user-images.githubusercontent.com/125264834/224322944-53c97c73-dcca-4893-a406-3a3b1f07005e.png)
+![download (3)](https://user-images.githubusercontent.com/125264834/224322946-756a7f6c-0402-4422-be5f-99fe4a4ad084.png)
+![download (2)](https://user-images.githubusercontent.com/125264834/224322952-9e6adcff-b690-4c09-88a9-13b579f2bb05.png)
+![download (1)](https://user-images.githubusercontent.com/125264834/224322955-d35d3606-4d27-4168-9907-e2941cc42716.png)
+
 
 ### Badges
 
