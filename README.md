@@ -16,38 +16,53 @@ FREE AGENT😄
                       -Nodejs ((DB : mysql)/(GET/POST/PUT/PATCH/DELETE/JWT))<br />
                       
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
-![<hr />][hr-snapshot]
-### Current What I Know <img alt="🌎" width="30" />
+
+### Current What I Know
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,arduino" alt="c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories " />
   </a>
 </p>
+```ts
+c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories
+```
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,androidstudio" alt="Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories " />
   </a>
 </p>
+```ts
+Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories
+```
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio,sqlite" alt="Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories " />
   </a>
 </p>
+```ts
+Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories
+```
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,postman,vscode" alt="Develop restful apis query, params and test with postman coding on vscode ex project on repositories" />
   </a>
 </p>
+```ts
+Develop restful apis query, params and test with postman coding on vscode ex project on repositories
+```
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,git" alt="git version control : github desktop main ,branch ,commit ,push ,pull " />
   </a>
 </p>
+```ts
+git version control : github desktop main ,branch ,commit ,push ,pull
+```
 
 ### Future Skills interested to learn
 
