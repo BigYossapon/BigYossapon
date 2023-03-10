@@ -17,7 +17,7 @@ FREE AGENT😄
                       
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
 ![<hr />][hr-snapshot]
-### Current What I Know <img alt="🌎" width="30" src="./assets/gifs/earth.gif" />
+### Current What I Know <img alt="🌎" width="30" />
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -50,9 +50,7 @@ FREE AGENT😄
 </p>
 
 ### Future Skills interested to learn
-[ ![graphql][graphql-badge] ][graphql-link] &nbsp;
-[ ![apollo][apollo-badge] ][apollo-link] &nbsp;
-![<hr />][hr-snapshot]
+
 ### Badges
 
 <b>My GitHub Stats</b>
