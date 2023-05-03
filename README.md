@@ -58,7 +58,7 @@ FREE AGENT😄
 
 ### Future Skills interested to learn
  </p>
- i want to know process,structure for large scale project, test and deploy app from some work;
+ Want to know process,structure for large scale project, test and deploy app from some work;</p>
 -IOT : ADVANCED TO IOT(ESP8266,ARDUINO) ;  </p>
 -FRONTEND : Web with flutter, UI with figma, Android with kotlin;  </p>
 -BACKEND : Mongo DB, GRAPHQL, FIREBASE, NODEJS JWT REFRESH TOKEN or SOMETHING NEW FOR API;  </p>
