@@ -57,10 +57,14 @@ FREE AGENT😄
 </p>
 
 ### Future Skills interested to learn
-![download](https://user-images.githubusercontent.com/125264834/224322944-53c97c73-dcca-4893-a406-3a3b1f07005e.png)
-![download (2)](https://user-images.githubusercontent.com/125264834/224322952-9e6adcff-b690-4c09-88a9-13b579f2bb05.png)
-![download (1)](https://user-images.githubusercontent.com/125264834/224322955-d35d3606-4d27-4168-9907-e2941cc42716.png)
-![images](https://user-images.githubusercontent.com/125264834/224323327-578011b9-0f07-49e8-a8ab-9043f8d5581b.png)
+ </p>
+-IOT : ADVANCED TO IOT(ESP8266,ARDUINO) ;
+-FRONTEND : Web with flutter, UI with figma, Android with kotlin;
+-BACKEND : Mongo DB, GRAPHQL, FIREBASE, NODEJS JWT REFRESH TOKEN or SOMETHING NEW FOR API;
+-TESTER : Learn some knowledge for tester is testcase,scenario case,unit test,widget test,function test and automate test with kalaton, kalaton is cross platform make me interest.
+I want to be a full stack developer.
+</p>
+
 
 ### Badges
 
