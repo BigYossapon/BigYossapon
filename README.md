@@ -58,11 +58,12 @@ FREE AGENT😄
 
 ### Future Skills interested to learn
  </p>
+ i want to know process,structure for large scale project, test and deploy app from some work;
 -IOT : ADVANCED TO IOT(ESP8266,ARDUINO) ;  </p>
 -FRONTEND : Web with flutter, UI with figma, Android with kotlin;  </p>
 -BACKEND : Mongo DB, GRAPHQL, FIREBASE, NODEJS JWT REFRESH TOKEN or SOMETHING NEW FOR API;  </p>
--TESTER : Learn some knowledge for tester is testcase,scenario case,unit test,widget test,function test and automate test with kalaton, kalaton is cross platform make me interest.  </p>
-I want to be a full stack developer.
+-TESTER : Learn some knowledge for tester is testcase,scenario case,unit test,widget test,function test and automate test with kalaton, kalaton is cross platform make me interest;  </p>
+I want to be a full stack developer;
 </p>
 
 
