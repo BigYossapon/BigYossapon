@@ -72,22 +72,6 @@ I want to be a full stack developer;
 ### Badges
 
 <b>My GitHub Stats</b>
-
-
-<h1 align="center">Hi 👋, I'm Yossapon Singsoi</h1>
-<h3 align="center">I wanted to create a project with all my own knowledge so I was interested in studying this information.I wannabe FullStack Developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bigyossapon&label=Profile%20views&color=0e75b6&style=flat" alt="bigyossapon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigyossapon" alt="bigyossapon" /></a> </p>
-
-- 📫 How to reach me **bigyossapon.forwork@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/BigYossapon/Resume/blob/main/Yossapon_Singsoi_Resumev4.pdf](https://github.com/BigYossapon/Resume/blob/main/Yossapon_Singsoi_Resumev4.pdf)
-
-
-
-
 <a href="http://www.github.com/BigYossapon"><img src="https://github-readme-stats.vercel.app/api?username=BigYossapon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BigYossapon's GitHub stats" /></a>
 
 <a href="https://github.com/BigYossapon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigYossapon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
