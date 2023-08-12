@@ -62,8 +62,8 @@ FREE AGENT😄
  </p>
  Want to know process,structure for large scale project, test and deploy app from some work;</p>
 -IOT : ADVANCED TO IOT(ESP8266,ARDUINO) ;  </p>
--FRONTEND : Web with flutter, UI with figma, Android with kotlin;  </p>
--BACKEND : Mongo DB, GRAPHQL, FIREBASE, NODEJS JWT REFRESH TOKEN or SOMETHING NEW FOR API;  </p>
+-FRONTEND :  UI with figma/xd , ios with swiftui;  </p>
+-BACKEND :  GRAPHQL,  NODEJS JWT REFRESH TOKEN or SOMETHING NEW FOR API;  </p>
 -TESTER : Learn some knowledge for tester is testcase,scenario case,unit test,widget test,function test and automate test with kalaton, kalaton is cross platform make me interest;  </p>
 I want to be a full stack developer;
 </p>
