@@ -6,6 +6,8 @@ FREE AGENT😄
 *   🌍  I'm based in WONGSAWANG , BANGKOK, THAILAND
 *   ✉️  You can contact me at [bigyossapon.forwork@gmail.com](mailto:bigyossapon.forwork@gmail.com)        
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
+### Current My Tech Stack  🧠
+
 
 ### Current What I Know 🧠
 
