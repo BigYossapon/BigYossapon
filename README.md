@@ -7,7 +7,7 @@ FREE AGENT😄
 *   ✉️  You can contact me at [bigyossapon.forwork@gmail.com](mailto:bigyossapon.forwork@gmail.com)        
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
 ### Current My Tech Stack  🧠
-
+<img src="https://skillicons.dev/icons?i=c,arduino"  />
 
 ### Current What I Know 🧠
 
