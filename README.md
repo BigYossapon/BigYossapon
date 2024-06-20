@@ -14,7 +14,7 @@ FREE AGENT😄
 ### My Tech Stack 🧠
 <img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
 
-### Current What I Know 🧠
+### What projects have I worked on in the past? 🧠
 
 <p align="left">
   <a href="https://skillicons.dev">
