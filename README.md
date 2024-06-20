@@ -7,7 +7,7 @@ FREE AGENT😄
 *   ✉️  You can contact me at [bigyossapon.forwork@gmail.com](mailto:bigyossapon.forwork@gmail.com)        
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
 ### Current My Tech Stack With Current Job 🧠
-<a href="#"><p align="center"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-dark.svg" width="50"></p></a>
+<a href="#"><p align="left"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/swift.svg" width="50"></p></a>
 <img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,bitbucket,sourcetree,c#,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
 
 ### My Tech Stack 🧠
