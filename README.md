@@ -9,7 +9,7 @@ FREE AGENT😄
    
 ### Current My Tech Stack With Current Job 🧠
 <a href="#"><p align="left"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/swift.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/xcode-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/kotlin-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/java-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/dart-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/androidstudio-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/discord-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/firebase-light.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flutter-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg" width="50"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/dotnet-dark.svg" width="50"></p></a>
-<img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,bitbucket,sourcetree,c#,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
+
 
 ### My Tech Stack 🧠
 <img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
