@@ -16,7 +16,7 @@ FREE AGENT😄
 
 ### What projects have I worked on in the past? 🧠
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Subject Project : Automatic Dog Feeder. <img src="https://img.icons8.com/?size=100&id=1TCX2ww987mj&format=png&color=000000" width="50">
+#### Subject Project : Automatic Dog Feeder. <img src="https://img.icons8.com/?size=100&id=1TCX2ww987mj&format=png&color=000000" width="25">
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,arduino" alt="c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories " />
