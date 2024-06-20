@@ -104,7 +104,7 @@ Description: coming.
  </p>
  Want to know process,structure for large scale project, test and deploy app from some work;</p>
 IOT : ADVANCED TO IOT(ESP8266,ARDUINO) ;  </p>
-FRONTEND :  UI with figma/xd , advanced with flutter cross platform;  </p>
+FRONTEND :  advanced with flutter cross platform;  </p>
 BACKEND :   advanced for some tech backend (c#.net,go,nodejs,bun);  </p>
 TESTER : Learn some knowledge for tester is testcase,scenario case,unit test,widget test,function test and automate test with kalaton, kalaton is cross platform make me interest;  </p>
 I want to be a full stack developer;
