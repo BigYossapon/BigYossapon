@@ -25,7 +25,9 @@ FREE AGENT😄
 Description: c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories
 </p>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #### Intern Project : Booking Room Meeting.
 <p align="left">
   <a href="https://skillicons.dev">
@@ -35,7 +37,9 @@ Description: c language with arduino,esp8266 control motor and anothe widget ex 
 Description:  booking room meeting with api on time per hour.
 </p>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #### Final Project : Machine and application Measure nutrients in the soil and calculate crop suitability.
 <p align="left">
   <a href="https://skillicons.dev">
@@ -45,7 +49,9 @@ Description:  booking room meeting with api on time per hour.
 Description:  use many device for get detail of soil and calculate with application communicate with bluetooth.
 </p>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #### Final Project : Machine and application Measure nutrients in the soil and calculate crop suitability.
 <p align="left">
   <a href="https://skillicons.dev">
@@ -55,7 +61,9 @@ Description:  use many device for get detail of soil and calculate with applicat
 Description: Develop restful apis query, params and test with postman coding on vscode ex project on repositories
 </p>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #### Working Project : DR.in. some features.
 <p align="left">
   <a href="https://skillicons.dev">
@@ -65,7 +73,9 @@ Description: Develop restful apis query, params and test with postman coding on 
 Description: coming.
 </p>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #### Working Project : KnowQ. some features.
 <p align="left">
   <a href="https://skillicons.dev">
@@ -75,7 +85,9 @@ Description: coming.
 Description:  coming.
 </p>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 #### Working Project : osDOE,eWP.
 <p align="left">
   <a href="https://skillicons.dev">
@@ -85,7 +97,9 @@ Description:  coming.
 Description: coming.
 </p>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ### Future Skills interested to learn
  </p>
  Want to know process,structure for large scale project, test and deploy app from some work;</p>
