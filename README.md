@@ -16,11 +16,8 @@ FREE AGENT😄
 
 ### What projects have I worked on in the past? 🧠
 
-#### automatic dog feeder
+#### Subject Project : Automatic Dog Feeder.
 <p align="left">
-     </p>
-   automatic dog feeder
-</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,arduino" alt="c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories " />
   </a>
@@ -29,26 +26,27 @@ Description: c language with arduino,esp8266 control motor and anothe widget ex 
 </p>
 </p>
 
+#### Intern Project : Booking Room Meeting.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,c#,.net" alt="Develop java mobile app : intern : booking room meeting with api" />
+  </a>
+  </p>
+Description:  booking room meeting with api on time per hour.
+</p>
+</p>
 
+#### Final Project : Machine and application Measure nutrients in the soil and calculate crop suitability.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,androidstudio,sqlite,arduino" alt="Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories " />
   </a>
   </p>
-Description: Develop java mobile app : intern : booking room meeting with api, my final project : soil mobile with bluetooth iot and googlemap api and sqlite , ex project on repositories
+Description:  use many device for get detail of soil and calculate with application communicate with bluetooth.
 </p>
 </p>
 
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,androidstudio" alt="Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories " />
-  </a>
-  </p>
-Description: Develop flutter mobile app on roadmap : connect restfuls api , state management bloc , and basic widget , sharepeference , json serialize , ex project on repositories
-</p>
-</p>
-
+#### Final Project : Machine and application Measure nutrients in the soil and calculate crop suitability.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,postman,vscode" alt="Develop restful apis jwt query params with db mysql and test with postman coding on vscode ex project on repositories" />
@@ -58,14 +56,17 @@ Description: Develop restful apis query, params and test with postman coding on 
 </p>
 </p>
 
+#### Working Project : DR.in. some features.
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git" alt="git version control : github desktop main ,branch ,commit ,push ,pull " />
+    <img src="https://skillicons.dev/icons?i=swift" alt="Develop restful apis jwt query params with db mysql and test with postman coding on vscode ex project on repositories" />
   </a>
   </p>
-Description: git version control : github desktop main ,sourcetree,branch ,commit ,push ,pull
+Description: Develop restful apis query, params and test with postman coding on vscode ex project on repositories
 </p>
 </p>
+
+
 
 ### Future Skills interested to learn
  </p>
