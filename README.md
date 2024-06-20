@@ -17,6 +17,9 @@ FREE AGENT😄
 ### What projects have I worked on in the past? 🧠
 
 <p align="left">
+     </p>
+   automatic dog feeder
+</p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,arduino" alt="c language with arduino,esp8266 control motor and anothe widget ex project : feeding pet with loadcell weight (while learning in university) ex project on repositories " />
   </a>
