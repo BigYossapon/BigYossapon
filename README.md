@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 🚀 FREE AGENT 😄
 ----------   
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
-
+---
 ## 🌍 About Me
 
 *🌏 Based in Wongsawang, Bangkok, Thailand
@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *💪 I enjoy creating end-to-end projects using my own knowledge, from system design to deployment
 
 *🧠 Strong interest in Trading Bots, Machine Learning, AI systems, and scalable backend architecture
-
+---
 ## My Tech Stack 🧠
 
 ### 🎨 Front-End
