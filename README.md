@@ -27,7 +27,7 @@ FREE AGENT😄
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,c&titles=true)
 
--BOT , AI LogisticRegrssionand Testing 
+-BOT TRADE , ML LogisticRegrssion, AI  and Testing 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,huggingface,pytest,pytorch,langchain,elasticsearch&titles=true)
 
