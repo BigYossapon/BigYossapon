@@ -9,24 +9,27 @@ FREE AGENT😄
    
 ### My Tech Stack 🧠
 -FRONT END
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
-<img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,java,kotlin&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=xcode,swift&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,dart&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs&titles=true)
 
 -BACK END
 
-<img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,elysia,dotnet&titles=true)
 
 -DATABASE
 
-<img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,mysql,oraclesqlite&titles=true)
 
 -IOT
 
-<img src="https://skillicons.dev/icons?i=arduino"  />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,c&titles=true)
 
 -TOOLS
 
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,discord,firebase,github,git,stackoverflow,"  />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,discord,firebase,github,git,stackoverflow,n8n,docker,jenkins,ollama&titles=true)
 
 
 ### What projects have I worked on in the past? 🧠
