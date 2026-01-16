@@ -11,8 +11,11 @@ FREE AGENT😄
 -FRONT END
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,java,kotlin&titles=true)
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=xcode,swift&titles=true)
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,dart&titles=true)
+
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,js,ts,&titles=true)
 
 -BACK END
