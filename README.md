@@ -29,7 +29,7 @@ FREE AGENT😄
 
 -TOOLS
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,discord,firebase,github,git,stackoverflow,n8n,docker,jenkins,ollama,github,bitbucket,sourcetree,fork,githubdesktop,chatgpt,gemini&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,discord,firebase,github,git,stackoverflow,n8n,docker,jenkins,ollama,github,bitbucket,sourcetree,fork,githubdesktop,chatgpt,gemini,githubactions,bitbucketpipeline&titles=true)
 
 
 ### What projects have I worked on in the past? 🧠
