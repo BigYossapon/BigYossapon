@@ -8,21 +8,25 @@ FREE AGENT😄
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
    
 ### My Tech Stack 🧠
--FE
+-FRONT END
 
 <img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
 
--BE
+-BACK END
 
 <img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
 
--DB
+-DATABASE
 
 <img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
+
+-IOT
+
+<img src="https://skillicons.dev/icons?i=arduino"  />
 
 -TOOLS
 
-<img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,discord,firebase,github,git,stackoverflow,"  />
 
 
 ### What projects have I worked on in the past? 🧠
