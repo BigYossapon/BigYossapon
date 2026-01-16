@@ -27,6 +27,10 @@ FREE AGENT😄
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,c&titles=true)
 
+-BOT , AI LogisticRegrssionand Testing 
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,huggingface,pytest,pytorch,langchain,elasticsearch&titles=true)
+
 -TOOLS
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,discord,xcode,firebase,github,git,stackoverflow,n8n,docker,jenkins,ollama,github,bitbucket,sourcetree,githubdesktop,chatgpt,gemini,githubactions,bitbucketpipeline&titles=true)
