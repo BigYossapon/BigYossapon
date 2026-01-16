@@ -21,7 +21,7 @@ FREE AGENT😄
 
 -DATABASE
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,mysql,oraclesqlite&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,mysql,oracle,sqlite&titles=true)
 
 -IOT
 
@@ -29,7 +29,7 @@ FREE AGENT😄
 
 -TOOLS
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,discord,firebase,github,git,stackoverflow,n8n,docker,jenkins,ollama&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,discord,firebase,github,git,stackoverflow,n8n,docker,jenkins,ollama,github,bitbucket,sourcetree,fork,githubdesktop&titles=true)
 
 
 ### What projects have I worked on in the past? 🧠
