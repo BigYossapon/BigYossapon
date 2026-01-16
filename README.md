@@ -14,6 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *💪 I enjoy creating end-to-end projects using my own knowledge, from system design to deployment
 
 *🧠 Strong interest in Trading Bots, Machine Learning, AI systems, and scalable backend architecture
+
 ---
 ## My Tech Stack 🧠
 
@@ -145,81 +146,7 @@ TESTER : Learn some knowledge for tester is testcase,scenario case,unit test,wid
 I want to be a full stack developer;
 </p>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is **Yossapon Singsoi**
-===============================
 
-### 🚀 FREE AGENT 😄
-
-Passionate Full-Stack Developer, AI & Automation Enthusiast
-Always building real-world systems from my own hands and experience.
-
----
-
-### 🌍 About Me
-
-* 🌏 Based in **Wongsawang, Bangkok, Thailand**
-* ✉️ Contact: **[bigyossapon.forwork@gmail.com](mailto:bigyossapon.forwork@gmail.com)**
-* 💪 I enjoy creating end-to-end projects using my own knowledge, from system design to deployment
-* 🧠 Strong interest in **Trading Bots, Machine Learning, AI systems, and scalable backend architecture**
-
----
-
-## 🧠 My Tech Stack
-
-### 🎨 Front-End
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,java,kotlin\&titles=true)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=xcode,swift\&titles=true)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,dart\&titles=true)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,js,ts\&titles=true)
-
----
-
-### ⚙️ Back-End
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,elysia,dotnet\&titles=true)
-
----
-
-### 🗄️ Database
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=elasticsearch,mysql,oracle,sqlite\&titles=true)
-
----
-
-### 🤖 IoT
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,c\&titles=true)
-
----
-
-### 📈 Trading Bot, Machine Learning & AI
-
-* Algorithmic Trading & Automation
-* Machine Learning (Logistic Regression)
-* AI / LLM / NLP Pipelines
-* Testing & Quality Assurance
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,huggingface,pytest,pytorch,langchain,elasticsearch\&titles=true)
-
----
-
-### 🛠️ Tools & DevOps
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,discord,xcode,firebase,github,git,stackoverflow,n8n,docker,jenkins,ollama,bitbucket,sourcetree,githubdesktop,chatgpt,gemini,githubactions,bitbucketpipeline\&titles=true)
-
----
-
-### ✨ What I Like Building
-
-* Full-Stack Applications (Web, Mobile, Backend)
-* Scalable API & Microservices
-* AI-powered systems (RAG, Sentiment Analysis, LLM Apps)
-* Automated Trading & Data Pipelines
-* CI/CD with Docker & Jenkins
-
----
 
 ⭐ *Feel free to explore my repositories and reach out if you’d like to collaborate.*
 
