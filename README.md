@@ -9,7 +9,7 @@ FREE AGENT😄
    
 ### My Tech Stack 🧠
 -FRONT END
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
 <img src="https://skillicons.dev/icons?i=c,arduino,swift,androidstudio,kotlin,java,vscode,dart,discord,firebase,flutter,github,git,js,nodejs,mongodb,mysql,postgres,sqlite,stackoverflow,"  />
 
 -BACK END
