@@ -6,7 +6,20 @@ FREE AGENT😄
 *   🌍  I'm based in WONGSAWANG , BANGKOK, THAILAND
 *   ✉️  You can contact me at [bigyossapon.forwork@gmail.com](mailto:bigyossapon.forwork@gmail.com)        
 *   💪  I wanted to create a project with all my own knowledge so I was interested in studying this information.
-   
+🚀 FREE AGENT 😄
+
+Passionate Full-Stack Developer, AI & Automation Enthusiast
+Always building real-world systems from my own hands and experience.
+
+🌍 About Me
+
+🌏 Based in Wongsawang, Bangkok, Thailand
+
+✉️ Contact: bigyossapon.forwork@gmail.com
+
+💪 I enjoy creating end-to-end projects using my own knowledge, from system design to deployment
+
+🧠 Strong interest in Trading Bots, Machine Learning, AI systems, and scalable backend architecture
 ### My Tech Stack 🧠
 -FRONT END
 
@@ -134,6 +147,7 @@ BACKEND :   advanced for some tech backend (c#.net,go,nodejs,bun);  </p>
 TESTER : Learn some knowledge for tester is testcase,scenario case,unit test,widget test,function test and automate test with kalaton, kalaton is cross platform make me interest;  </p>
 I want to be a full stack developer;
 </p>
+
 
 
 
